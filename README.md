@@ -1,4 +1,4 @@
 # sudokuSolver
 
 ## Coming soon GUI for visualisation!
-## Adding multiple solution feature!
+## Adding multiple solutions feature!
